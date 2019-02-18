@@ -4,3 +4,6 @@
 [submodule "mycrops-web"]
 	path = mycrops-web
 	url = https://github.com/gbgama/mycrops-web
+[submodule "mycrops-arduino-hub"]
+	path = mycrops-arduino-hub
+	url = https://github.com/gbgama/mycrops-arduino-hub
