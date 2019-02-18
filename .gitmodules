@@ -1,0 +1,6 @@
+[submodule "mycrops-rest-api"]
+	path = mycrops-rest-api
+	url = https://github.com/gbgama/mycrops-rest-api
+[submodule "mycrops-web"]
+	path = mycrops-web
+	url = https://github.com/gbgama/mycrops-web
